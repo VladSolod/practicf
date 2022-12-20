@@ -1,0 +1,19 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer {
+    margin-top: auto;
+  }
+  
+  .main {
+    margin: 0 auto;
+    max-width: 80ch;
+  }
