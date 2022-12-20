@@ -17,3 +17,11 @@ body {
     margin: 0 auto;
     max-width: 80ch;
   }
+
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    width: 1100px;
+  }
