@@ -1,6 +1,7 @@
 .conteiner{
     display: flex;
     justify-content: center;
+    
 }
 
 body {
@@ -25,3 +26,8 @@ body {
     font-size: 18px;
     width: 1100px;
   }
+  .your-style {
+    font-family: 'Varna';
+    font-weight: normal;
+    font-style: normal;
+}
